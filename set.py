@@ -54,6 +54,26 @@
 # print(A)
 
 
-A={'apple', 'orange', 'banana', 'pear'}
-A.discard( 'orange')
+# A={'apple', 'orange', 'banana', 'pear'}
+# A.discard( 'orange')
+# print(A)
+
+
+
+# A={'apple', 'orange', 'banana', 'pear'}
+# A.pop()
+# print(A)
+
+
+
+# A = {1, 2, 3, 4, 5} 
+# B = {6, 7, 8}
+# A.union(B)
+# print(A)
+
+
+
+A = {1, 2, 3, 4, 5} 
+B = {6, 7, 8}
+A.intersection(B)
 print(A)
