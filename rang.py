@@ -13,7 +13,9 @@
 
 
 
-range(5)
+# range(5)
 
-x=list(range(5))
-print(x)
+# x=list(range(5))
+# print(x)
+
+
