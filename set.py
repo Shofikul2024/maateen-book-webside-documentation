@@ -46,9 +46,14 @@
 আমরা যেভাবে দিয়েছি সেভাবে অ্যাড করার জন্য 
 এলিমেন্টগুলোকে {} চিহ্নের ভিতরে পুরে পাঠাতে হবে। 
 
-'''
+# '''
 
-A = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}
+# A = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}
  
-A.update({'berry', 'grape'})
+# A.update({'berry', 'grape'})
+# print(A)
+
+
+A={'apple', 'orange', 'banana', 'pear'}
+A.discard( 'orange')
 print(A)
